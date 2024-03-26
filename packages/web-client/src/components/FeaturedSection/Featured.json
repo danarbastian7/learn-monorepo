@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "img": "/apple.jpg",
+    "name": "American apple",
+    "price": "Rp 20000"
+  },
+  {
+    "id": 1,
+    "img": "/banana.jpg",
+    "name": "Taiwan banana",
+    "price": "Rp 9000"
+  },
+  {
+    "id": 2,
+    "img": "/durian.jpg",
+    "name": "Indonesia durian",
+    "price": "Rp 50000"
+  },
+  {
+    "id": 3,
+    "img": "/orange.jpg",
+    "name": "Japanese orange",
+    "price": "Rp 30000"
+  }
+]

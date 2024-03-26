@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Fruits",
+    "count": 28,
+    "img": "/fruits.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Vegetables",
+    "count": 30,
+    "img": "/vegetable.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Seasoning",
+    "count": 25,
+    "img": "/seasoning.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Breads",
+    "count": 5,
+    "img": "/bread.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Noodles",
+    "count": 15,
+    "img": "/noodle.jpg"
+  }
+]
