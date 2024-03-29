@@ -9,6 +9,7 @@ const Hero = () => {
           <img
             className="w-full h-[100%] object-cover rounded-lg"
             src="/grocery2.jpg"
+            loading="lazy"
             alt="grocery"
           />
           <div className="max-w-[450px] ml-8  max-sm:top-[15%] max-sm:-translate-y-100% -translate-y-[50%] top-[40%] absolute">
@@ -30,6 +31,7 @@ const Hero = () => {
         <div className="">
           <img
             src="/grocery3.jpg"
+            loading="lazy"
             alt="grocery-man"
             className="h-full w-full object-cover rounded-lg"
           />
@@ -50,6 +52,7 @@ const Hero = () => {
         <div className="">
           <img
             src="/grocery4.jpg"
+            loading="lazy"
             alt="grocery-man"
             className="h-full w-full object-cover rounded-lg"
           />

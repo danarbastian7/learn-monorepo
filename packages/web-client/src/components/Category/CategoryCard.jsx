@@ -10,6 +10,7 @@ const CategoryCard = ({ img, name, count }) => {
         </div>
         <img
           src={img}
+          loading="lazy"
           alt={name}
           className="w-[100px] h-[100px] border-red-200 border rounded-full object-cover"
         />
