@@ -2,8 +2,8 @@ import React from "react";
 
 const Banner = () => {
   return (
-    <div className="container pt-16 border border-red-600">
-      <div className="grid sm:grid-cols-2 gap-4 sm:gap-8 border border-red-60 h-500px">
+    <div className="container pt-16 ">
+      <div className="grid sm:grid-cols-2 gap-4 sm:gap-8 h-500px">
         <div className="overflow-hidden rounded-lg">
           <img
             src="/banner2.jpg"
